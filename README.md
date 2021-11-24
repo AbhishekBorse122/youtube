@@ -2,7 +2,7 @@
 
 This is Youtube Clone Web App. This Youtube Web App has same feature as Youtube Mobile App.<br/>
 This Youtube Clone Web App is Mobile-Friendly & Responsive.<br/>
-This Web App is made using the React JS, Axios API and React Hooks method.<br/>
+This Web App is develop using the React JS, Axios API and React Hooks method.<br/>
 The Material UI and Bootstrap is used to design the Youtube Clone Web App. <br/>
 
 
